@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+keras
+openai>=1.0.0
+python-dotenv>=1.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=2.0.0
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+python-jose>=3.3.0
+passlib>=1.7.4
+python-multipart>=0.0.5
